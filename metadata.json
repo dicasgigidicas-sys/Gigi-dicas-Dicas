@@ -1,0 +1,6 @@
+{
+  "name": "Healthy Dog Meals By Mel",
+  "description": "Complete guide and interactive toolkit for natural, healthy, budget-friendly homemade dog food with 50+ recipes and portion calculator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
